@@ -1,0 +1,37 @@
+//LazyComponent1.js
+import React from "react";
+const LazyComponent1 =()=>{
+    return(
+        <>
+        <h1>LazyComponent1</h1>
+        </>
+    )
+}
+export default LazyComponent1;
+
+
+
+
+/////////////////////////////////////
+//LazyComponent2.js
+import React from "react";
+const LazyComponent2 =()=>{
+    return(
+        <>
+        <h1>LazyComponent2</h1>
+        </>
+    )
+}
+export default LazyComponent2;
+
+/////////////////////////////////////
+////LazyComponent3.js
+import React from "react";
+const LazyComponent3 =()=>{
+    return(
+        <>
+        <h1>LazyComponent3</h1>
+        </>
+    )
+}
+export default LazyComponent3;
